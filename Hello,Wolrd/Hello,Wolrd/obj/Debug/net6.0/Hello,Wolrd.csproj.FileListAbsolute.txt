@@ -1,0 +1,15 @@
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\bin\Debug\net6.0\Hello,Wolrd.exe
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\bin\Debug\net6.0\Hello,Wolrd.deps.json
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\bin\Debug\net6.0\Hello,Wolrd.runtimeconfig.json
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\bin\Debug\net6.0\Hello,Wolrd.dll
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\bin\Debug\net6.0\Hello,Wolrd.pdb
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.csproj.AssemblyReference.cache
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.GeneratedMSBuildEditorConfig.editorconfig
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.AssemblyInfoInputs.cache
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.AssemblyInfo.cs
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.csproj.CoreCompileInputs.cache
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.dll
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\refint\Hello,Wolrd.dll
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.pdb
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\Hello,Wolrd.genruntimeconfig.cache
+F:\NewProjet\Hello,Wolrd\Hello,Wolrd\obj\Debug\net6.0\ref\Hello,Wolrd.dll
